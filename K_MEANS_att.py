@@ -1,3 +1,4 @@
+#dataset being used is AT&T face dataset.
 from numpy import genfromtxt
 from scipy import linalg
 import matplotlib.pyplot as plt
